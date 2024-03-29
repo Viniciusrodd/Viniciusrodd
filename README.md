@@ -21,4 +21,4 @@
 <br>
 
 - Fascinado em tecnologia, criação e aprendizado contínuo.
-- Explorando de ideias e transformando linhas de código em inovação.
+- Explorando ideias e transformando linhas de código em inovação.
