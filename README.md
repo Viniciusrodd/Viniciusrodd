@@ -1,10 +1,10 @@
-## Welcome to my ideas 🧠👾
+## 👾 Here is some fun codes 👾
 
 
 
 ![Vini GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusrodd&show_icons=true&theme=radical)
 
-## Tecnologias que gosto de usar
+## 👾 Technologies I use so far 👾
 
 <div style="display: inline-block"><br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -21,5 +21,3 @@
 
 <br>
 
-- Fascinado em tecnologia, criação e aprendizado contínuo.
-- Explorando ideias e transformando linhas de código em inovação.
