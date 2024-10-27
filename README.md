@@ -1,8 +1,6 @@
 ## 👾 Here is some fun codes 👾
 
-
-
-![Vini GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusrodd&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusrodd&show_icons=true&theme=transparent)
 
 ## 👾 Technologies I use so far 👾
 
@@ -15,8 +13,9 @@
 </div> 
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrodd&layout=donut)](https://github.com/viniciusrodd/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrodd&layout=donut-vertical)](https://github.com/viniciusrodd/github-readme-stats)
 
 <br>
+
 
