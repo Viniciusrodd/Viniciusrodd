@@ -14,7 +14,7 @@
 </div> 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrodd&layout=donut)](https://github.com/viniciusrodd/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrodd&layout=donut)](https://github.com/viniciusrodd/github-readme-stats)-->
 
 
 <br>
